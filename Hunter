@@ -384,4 +384,4 @@ end
 -- Start the chat detection
 setupChatDetection()
 
-print("Extreme Lag System Loaded - Monitoring chat for keywords: buhdum, back off")
+print("Extreme Lag System Loaded - Monitoring chat for keywords: bet, alr, allow, gng, back off")
